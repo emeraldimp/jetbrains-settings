@@ -1,0 +1,11 @@
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="Database.OpenDbStorageAction" />
+  <action id="EditSource" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+</keymap>
