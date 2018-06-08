@@ -1,4 +1,7 @@
 <keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="BuildCurrentProject">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="Console.TableResult.NavigateAction" />
   <action id="Database.OpenDbStorageAction" />
   <action id="EditSource" />
